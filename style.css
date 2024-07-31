@@ -16,7 +16,8 @@ body{
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
-    height:500px;
+    width:auto;
+    height:100vh;
     backdrop-filter: blur(50px);
 }
 
